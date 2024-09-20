@@ -1,0 +1,16 @@
+Dear Full Stack Team,
+
+This might not be the examplenary project you would expect. But I can promise you this is work of me spending ten hours over the last weekend and two hours per day on average this week. It's only my third months into coding and my first time learning about command code, git bash, java script, nodes, express, react, MongoDB, firebase, etc.
+
+Over the four days of the bootcamp and last week, I started from zero to knowing the connection among web components, to understanding the functionality of every line of code, to ultimately building this crappy project.
+
+I admit that my page design is far away from good. But this is the place where my repeated attempts led me to. Over the past week, I encountered errors over errors and struggled to fix them (like converting firebaseTimeStamp to date and time so that the front end will take the data, or failing to putting handle functions in the front end and learning that such functions can only be used in the client components, or wanting to build a function to delete books but not having enough time). 
+
+But throughout this course of trial and error, I've learned to optimize codes or introduce better functionalities. For example, instead of setting each value of a document as a prop, I figured that I can set the document as a prop in the form of map. I think I've also found a way to refresh the inventory everytime the user submit a new book (unfortunately, the entry timestamp format didn't match firebase timestamp).
+
+"If you are the smartest person in the room, you are probably in the wrong room". On the other hand, I would say that I am probably the least experienced in programing at the Full Stack Boot Camp. But this is exactly the reason I want to be there -- to feel uncomfortable, to stimulate learning, and to one day become like one of you! 
+
+I really hope that I can be part of this inclusive learning community and witness the growth of the Full Stack Team over the next four years. I am confident that I will be able to progress quickly, because I am at the bottom of the learning curve -- more importantly, I wanna push myself, explore coding beyond CS15 classroom, and learn from other Full Stack members around me!
+
+Sincerely,
+Jerry
